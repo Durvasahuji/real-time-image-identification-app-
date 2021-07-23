@@ -1,0 +1,33 @@
+.title
+{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+    box-shadow:5px 5px 5px lightgrey ;
+}
+
+.name
+{
+    box-shadow:5px 5px 5px grey;
+    border-radius: 20px;
+    color:black;
+    padding: 10px;
+    float: none;
+    background-color: white;
+}
+
+.object
+{
+    white-space: pre-line;
+}
+
+.accuracy
+{
+    white-space: pre-line;
+}
+ 
+.my_footer
+{
+    color:black;
+    box-shadow:5px 5px 5px lightgrey;
+}
